@@ -1,0 +1,16 @@
+tipos de variaveis em C
+
+char = caractere
+int = inteiro
+long = inteiro com mais bytes
+float = ponto flutuante
+double = float com mais bytes, geralmente 8bytes
+
+Format codes:
+
+%i = int
+%li = long
+%f = float
+%lf = double
+%c = char
+%s = string
